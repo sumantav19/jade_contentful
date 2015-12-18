@@ -1,0 +1,22 @@
+{
+  "name": "jade_json_static_page_render",
+  "version": "1.0.0",
+  "description": "This project is created to test the gulp jade template creation from the json value coming from the Contentful cms",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gulp",
+    "Jade",
+    "Json"
+  ],
+  "author": "Sumant Dey",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-data": "^1.2.1",
+    "gulp-jade": "^1.1.0",
+    "node-rest-client": "^1.5.1"
+  }
+}
