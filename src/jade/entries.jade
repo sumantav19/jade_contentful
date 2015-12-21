@@ -1,0 +1,9 @@
+-var testString = [sys,total,skip,limit,items]
+
+html
+	body
+
+		each val in items
+			if val.sys.contentType.sys.id == "author"
+				p#name.name.name-test=val.fields.firstName +" "+ val.fields.lastName
+				p=val.fields.lastName

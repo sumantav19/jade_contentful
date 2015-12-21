@@ -14,9 +14,9 @@
   "author": "Sumant Dey",
   "license": "UNLICENSED",
   "dependencies": {
+    "contentful": "^1.2.1",
     "gulp": "^3.9.0",
     "gulp-data": "^1.2.1",
-    "gulp-jade": "^1.1.0",
-    "node-rest-client": "^1.5.1"
+    "gulp-jade": "^1.1.0"
   }
 }
